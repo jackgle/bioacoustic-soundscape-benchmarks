@@ -18,12 +18,14 @@ A comprehensive collection of publicly available soundscape datasets strongly la
 | An annotated set of audio recordings of Eastern North American birds containing frequency, time, and species information | https://doi.org/10.1002/ecy.3329 | March 2021 | 6.4 hours, 48 species | Lauren M. Chronister, Tessa A. Rhinehart, Aidan Place, Justin Kitzes |
 ---
 
-## To check
-* https://arxiv.org/html/2503.00296v1?utm_source=chatgpt.com
-* https://zenodo.org/records/6512218
-* https://www.sciencedirect.com/science/article/pii/S1574954125001311#s0010
-* https://www.aicrowd.com/challenges/lifeclef-2020-bird-monophone#resources
-* https://arxiv.org/pdf/2210.12300
+## To Do
+* Check details:
+  * https://arxiv.org/html/2503.00296v1?utm_source=chatgpt.com
+  * https://zenodo.org/records/6512218
+  * https://www.sciencedirect.com/science/article/pii/S1574954125001311#s0010
+  * https://www.aicrowd.com/challenges/lifeclef-2020-bird-monophone#resources
+  * https://arxiv.org/pdf/2210.12300
+* List non-public data (e.g. BirdCLEF competitions)?
 
 ## ✍️ Contributing
 
