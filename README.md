@@ -15,8 +15,7 @@ Collection of publicly available, strongly-labeled soundscape data for bioacoust
 | A collection of fully-annotated soundscape recordings from the southern Sierra Nevada mountain range  | https://zenodo.org/records/7525805 | ~16.667 hours, 21 bird species  |
 | A collection of fully-annotated soundscape recordings from neotropical coffee farms in Colombia and Costa Rica | https://zenodo.org/records/7525349 | 34 hours, 89 bird species |
 | ECOSoundSet | https://arxiv.org/abs/2504.20776?utm_source=chatgpt.com | Mix of strong and weakly labeled recordings for 224 insect species |
-| An annotated set of audio recordings of Eastern North American birds containing frequency, time, and species information | 
-    https://doi.org/10.1002/ecy.3329 | 6.4 hours, 48 species |
+| An annotated set of audio recordings of Eastern North American birds containing frequency, time, and species information | https://doi.org/10.1002/ecy.3329 | 6.4 hours, 48 species |
 ---
 
 ## To check
