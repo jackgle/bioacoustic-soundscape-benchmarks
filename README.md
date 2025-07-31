@@ -20,7 +20,7 @@ A comprehensive collection of publicly available soundscape datasets strongly la
 
 ## To Do
 * Check details:
-  * https://arxiv.org/html/2503.00296v1?utm_source=chatgpt.com
+  * https://arxiv.org/abs/2503.00296
   * https://zenodo.org/records/6512218
   * https://www.sciencedirect.com/science/article/pii/S1574954125001311#s0010
   * https://www.aicrowd.com/challenges/lifeclef-2020-bird-monophone#resources
