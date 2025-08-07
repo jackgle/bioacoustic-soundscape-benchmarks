@@ -9,20 +9,20 @@ A comprehensive collection of publicly available soundscape datasets strongly la
 | Dataset Name | Source | Year Published | Summary | Authors |
 |----|----|----|----|----|
 | BirdSet | https://arxiv.org/abs/2403.10380 | May 2025 | 6,800 recording hours from ~10,000 classes for training and more than 400 hours across eight evaluation datasets | Lukas Rauch, et al. |
-| WABAD: A World Annotated Bird Acoustic Dataset for Passive Acoustic Monitoring | https://zenodo.org/records/14191524 | Nov. 2024 | 84 hours, 1,147 bird species, 27 countries, 13 biomes | Cristian Pérez-Granados, Esther Sebastián-González |
 | ECOSoundSet | https://arxiv.org/abs/2504.20776?utm_source=chatgpt.com | April 2025 | Mix of strong and weakly labeled recordings for 224 insect species | David Funosas, et al. |
+| WABAD: A World Annotated Bird Acoustic Dataset for Passive Acoustic Monitoring | https://zenodo.org/records/14191524 | Nov. 2024 | 84 hours, 1,147 bird species, 27 countries, 13 biomes | Cristian Pérez-Granados, Esther Sebastián-González |
+| Western Kenya | https://zenodo.org/records/10943500 | April 2024 | 32 hours, 176 species | Stefan Kahl, et al. |
+| AnuraSet | https://zenodo.org/records/8342596 | June 2023 | 27 hours, 42 species (zenodo mentions ~78 hours for anuraset.zip?) | Juan Sebastián Cañas et al. |
 | Southern Sierra Nevada mountain range  | https://zenodo.org/records/7525805 | Jan. 2023 | ~16.667 hours, 21 bird species  | Mary Clapp, et al. |
 | Neotropical coffee farms in Colombia and Costa Rica | https://zenodo.org/records/7525349 | Jan. 2023 | 34 hours, 89 bird species | Álvaro Vega-Hidalgo, et al. |
 | Island of Hawai'i  | https://zenodo.org/records/7078499 | Sept. 2022 | 51 hours, 27 bird species | Amanda Navine, et al. |
 | Southwestern Amazon Basin  | https://zenodo.org/records/7079124 | Sept. 2022 | 21 hours, 132 bird species | W. Alexander Hopping, Stefan Kahl, Holger Klinck |
 | Western United States  | https://zenodo.org/records/7050014 | Sept. 2022 | 33 hours, 56 bird species | Stefan Kahl, et al. |
 | Northeastern United States | https://zenodo.org/records/7079380 | Aug. 2022 | 285 hours, 81 bird species | Stefan Kahl, Russel Charif, Holger Klinck |
+| BirdVox-296h | https://zenodo.org/records/5856260 | Dec. 2021 | 296 hours | Andrew Farnsworth et al. |
 | An annotated set of audio recordings of Eastern North American birds containing frequency, time, and species information | https://doi.org/10.1002/ecy.3329 | March 2021 | 6.4 hours, 48 species | Lauren M. Chronister, Tessa A. Rhinehart, Aidan Place, Justin Kitzes |
 | LifeCLEF 2020 Bird - Monophone | https://www.aicrowd.com/challenges/lifeclef-2020-bird-monophone | 2020 | 153 soundscapes from Peru, USA, and Germany | Stefan Kahl, et al. |
-| Western Kenya | https://zenodo.org/records/10943500 | April 2024 | 32 hours, 176 species | Stefan Kahl, et al. |
-| BirdVox-296h | https://zenodo.org/records/5856260 | Dec. 2021 | 296 hours | Andrew Farnsworth et al. |
 | BirdVox-full-night | https://zenodo.org/records/1205569 | Oct. 2017 | ~60 hours, ~25 species | Andrew Farnsworth et al. |
-| AnuraSet | https://zenodo.org/records/8342596 | June 2023 | 27 hours, 42 species (zenodo mentions ~78 hours for anuraset.zip?) | Juan Sebastián Cañas et al. |
 ---
 
 ## Private Soundscape Datasets
