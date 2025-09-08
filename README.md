@@ -1,4 +1,4 @@
-# 🐦 bioacoustic-soundscape-benchmarks
+# 🐦 open-bioacoustic-benchmarks
 A comprehensive collection of publicly available soundscape datasets strongly labeled for target bioacoustic events — for research and benchmarking in bioacoustic analysis.
 
 *Work in Progress*
@@ -25,7 +25,7 @@ Note that there may be overlap between some of these datasets, for example BirdS
 | An annotated set of audio recordings of Eastern North American birds containing frequency, time, and species information | https://doi.org/10.1002/ecy.3329 | March 2021 | 6.4 hours, 48 species | Lauren M. Chronister et al. |
 | LifeCLEF 2020 Bird - Monophone | https://www.aicrowd.com/challenges/lifeclef-2020-bird-monophone | 2020 | 153 soundscapes from Peru, USA, and Germany | Stefan Kahl, et al. |
 | NIPS4Bplus | https://peerj.com/articles/cs-223/ | Oct. 2019 | | Veronica Morfi et al. |
-| BirdVox-full-night | https://zenodo.org/records/1205569 | Oct. 2017 | ~60 hours, ~25 species | Andrew Farnsworth et al. |
+| BirdVox-full-night | https://zenodo.org/records/1205569 | Oct. 2017 | ~60 hours, species are not labeled, ~25 passerine species estimated | Andrew Farnsworth et al. |
 ---
 
 ## Private Soundscape Datasets
